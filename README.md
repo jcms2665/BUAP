@@ -4,23 +4,23 @@
 #####jcms2665@gmail.com
 
 ___
-**Objetivo**
+###**Objetivo**
 
 Introducir a los usuario en el manejo de muestras complejas con Stata y estimación de los errores de muestreo.
 
-**Contenido**
+**Contenido**###
 
 El taller inicia con una revisión teórica muy general sobre el muestreo, luego se enfoca en el cálculo de las precisiones estadísticas con Stata.
 
 
-**Links**
+**Links**###
 
 La ejecución del código se encuentra en: [SvyStata](http://rpubs.com/jcms2665/SvyStata)
 
 La estimación de varianza mediante la creación de réplicas se puede analizar en:  [BootstrapS](https://jcms2665.shinyapps.io/BootstrapS)
 
 
-**Bibliografía**
+**Bibliografía*###*
 
 
 *INEGI*
