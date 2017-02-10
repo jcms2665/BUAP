@@ -1,14 +1,16 @@
-#uestras Complejas con STATA
-M
-Julio César Martínez Sánchez 
-jcms2665@gmail.com
+#Muestras Complejas con STATA
+###Benemérita Universidad Autónoma de Puebla
+##### Julio César Martínez Sánchez 
+#####jcms2665@gmail.com
 
 
-Objetivo:
+**Objetivo**
 
 Introducir a los usuario en el manejo de muestras complejas con Stata y estimación de los errores de muestreo.
 
-
-Contenido
+**Contenido**
 
 El taller inicia con una revisión teórica muy general sobre el muestreo, luego se enfoca en el cálculo de las precisiones estadísticas con Stata.
+
+
+
