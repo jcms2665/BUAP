@@ -1,4 +1,4 @@
-#Muestras Complejas con STATA
+#Precisiones estadísticas en encuestas en hogares con STATA
 ###Benemérita Universidad Autónoma de Puebla
 ##### Julio César Martínez Sánchez 
 #####jcms2665@gmail.com
