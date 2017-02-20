@@ -1,4 +1,4 @@
-#Precisiones estadísticas en encuestas en hogares con STATA
+#Cálculo de errores de muestreo en encuestas con STATA
 ###Benemérita Universidad Autónoma de Puebla
 ##### Julio César Martínez Sánchez 
 #####jcms2665@gmail.com
