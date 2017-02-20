@@ -15,11 +15,6 @@ Introducir a los usuario en el manejo de muestras complejas con Stata y estimaci
 El taller inicia con una revisión teórica muy general sobre el muestreo, luego se enfoca en el cálculo de las precisiones estadísticas con Stata.
 <br>
 <br>
-###**Links**
-
-La ejecución del código se encuentra en: [SvyStata](http://rpubs.com/jcms2665/SvyStata)
-
-<br>
 <br>
 ###**Bibliografía**
 
