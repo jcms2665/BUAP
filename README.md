@@ -17,6 +17,10 @@ El taller inicia con una revisión teórica muy general sobre el muestreo, luego
 <br>
 <br>
 <br>
+
+
+![CURSO](https://rpubs.com/jcms2665/SvyStat*
+
 ### **Bibliografía** 
 
 
