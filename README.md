@@ -1,25 +1,25 @@
-#Cálculo de errores de muestreo en encuestas con STATA
-###Benemérita Universidad Autónoma de Puebla
+# Cálculo de errores de muestreo en encuestas con STATA
+### Benemérita Universidad Autónoma de Puebla
 ##### Julio César Martínez Sánchez 
 
 
 ___
 <br>
-###**Objetivo**
+###**Objetivo**  
 
 Introducir a los usuario en el manejo de muestras complejas con Stata y estimación de los errores de muestreo.
 <br>
 <br>
-###**Contenido**
+###**Contenido** 
 
 El taller inicia con una revisión teórica muy general sobre el muestreo, luego se enfoca en el cálculo de las precisiones estadísticas con Stata.
 <br>
 <br>
 <br>
-###**Bibliografía**
+###**Bibliografía** 
 
 
-#####*INEGI*
+#####*INEGI* 
 
 * [Pruebas de significancia estadística](http://www.beta.inegi.org.mx/contenidos/proyectos/enchogares/regulares/enoe/doc/enoe_significancia.pdf)
 
@@ -30,7 +30,7 @@ El taller inicia con una revisión teórica muy general sobre el muestreo, luego
 * [Marco nacional de viviendas](http://www.inegi.org.mx/eventos/2013/Foro_Estadistica/doc/P-AnaMariaLanderos.pdf)
 
 
-#####*Teoría*
+#####*Teoría* 
 
 * [Applied Survey Data Analysis](http://www.isr.umich.edu/src/smp/asda/)
 
