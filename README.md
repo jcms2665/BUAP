@@ -5,7 +5,7 @@
 
 ___
 <br>
-###**Objetivo**  
+### **Objetivo**  
 
 Introducir a los usuario en el manejo de muestras complejas con Stata y estimación de los errores de muestreo.
 <br>
