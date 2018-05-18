@@ -1,4 +1,4 @@
-# Cálculo de errores de muestreo en encuestas con STATA
+# Aspectos teórico-metodológicos de la Encuesta Nacional de Ocupación y Empleo, ENOE
 ### Benemérita Universidad Autónoma de Puebla
 ##### Julio César Martínez Sánchez 
 
@@ -8,16 +8,23 @@ ___
 
 ### **Objetivo**  
 
-Introducir a los usuario en el manejo de muestras complejas con Stata y estimación de los errores de muestreo.
+El objetivo de este taller es hacer una revisión exhaustiva de los principales aspectos teóricos y metodológicos de la Encuesta Nacional de Ocupación y Empleo, ENOE, con el fin de conocer sus limitaciones y sus potencialidades, así como la forma adecuada de utilizar los datos, para evitar problemas de estimación estadística en la elaboración de indicadores que se obtienen para los trabajos de investigación en Ciencias Sociales, pero en especial en torno a problemáticas ligadas con el trabajo y los mercados laborales en México.
+
 <br>
 <br>
+
 ### **Contenido** 
 
-El taller inicia con una revisión teórica muy general sobre el muestreo, luego se enfoca en el cálculo de las precisiones estadísticas con Stata.
-<br>
-<br>
-<br>
 
+* 1.	Marco conceptual y marco muestral de la ENOE.
+* 2.	Aspectos metodológicos relativos al uso de la ENOE: representatividad y comparabilidad.
+* 3.	Revisión de los contenidos de los cuestionarios básico y ampliado.
+* 4.	Construcción y uso del factor de expansión.
+* 5.	Presentación general de los Módulos de la ENOE.
+* 6.	Presentación general de la Encuesta Nacional de Ingresos y Gastos de los Hogares.
+<br>
+<br>
+<br>
 
 ## **[CURSO EN STATA](https://rpubs.com/jcms2665/SvyStata)**
 
